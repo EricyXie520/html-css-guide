@@ -35,7 +35,7 @@
 	* [命名-词汇规范](#word)
 	* [命名-缩写规范](#abbr)
 	* [命名-前缀规范](#prefix)
-	* [id与class](#id)
+	* [id与级](#id)
 	* [书写格式](#packaging)
 	* [规则与分号](#semicolon)
 	* [0与单位](#unit)
@@ -52,10 +52,10 @@
 	* [图像压缩](#img-compress)
 	* [背景图](#background-image)
 	* [前景图](#image)
-	* [Sprite](#sprite)
+	* [雪碧](#sprite)
 7. [结语](#end)
 
-<a name="intro"></a>
+<一个名字="intro"></一个>
 ## 规范概述
 
 规范的制定是我们长期以来对工作的积累与沉淀的产物，帮助我们更快、更好、更高效的完成繁重、复杂、多样化的任务，我们制作规范的主要目的在于：
